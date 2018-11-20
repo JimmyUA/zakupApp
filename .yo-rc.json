@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "zakupUAA",
+    "packageName": "com.sergey.prykhodko",
+    "packageFolder": "com/sergey/prykhodko",
+    "serverPort": 9999,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ru",
+      "ua",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MWJlODQ5MjEwZDk3MjllOWU5N2YzZTkzZGZhODEzYjUxNWQzNGRmYWYzZTE5N2I5YWU4OTk4NWEzOGM4MjhkMzYwNzgxNWQ3MzQ0YzUyZTE0ZDM5MmI0YTIxNzk4OTQ2ZjUzY2E5YmE1Y2VhODFiZGYxNTU4ZGNlNDQ1ZGEzOWI=",
+    "otherModules": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "JimmyUA",
+  "repository-name": "zakupApp"
+}
